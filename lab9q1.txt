@@ -1,0 +1,9 @@
+First line
+*p3 = S
+Second line
+*p3 = T , p3 = Address(p1) = 6940
+Third line
+*p1 = T, p1 = Addres(p2) = 9772
+
+
+

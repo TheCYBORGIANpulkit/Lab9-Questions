@@ -1,0 +1,1 @@
+Error is tht definition of '*p' expects an address of some double variable to be stored there. 

@@ -1,0 +1,13 @@
+temp = A
+temp = C 
+temp = B
+temp = A
+ptr = BC
+temp = B
+temp = C
+ptr = ABC
+temp = A
+temp = A+1
+temp = B 
+temp = C
+
